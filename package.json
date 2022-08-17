@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/SLiberas06/Projet-4-La-panthere#readme",
   "dependencies": {
+    "imagemin-jpegtran": "^7.0.0",
     "js-library-detector": "^6.5.0"
   }
 }

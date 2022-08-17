@@ -1658,7 +1658,28 @@ mark {
 }
 
 .text-center {
-    text-align: center
+    text-align: center;
+    
+}
+.col-sm-12{
+    font-size:22px;
+    width:75%; 
+    margin:auto;
+    letter-spacing:-1px;
+}
+
+.text-h3{
+    font-size:17px;
+    width:100%;
+}
+
+.mg-md{
+    width:100%;
+}
+
+.text-mg-md{
+    font-size:17px;
+    width: 100%;
 }
 
 .text-justify {
