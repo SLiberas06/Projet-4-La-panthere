@@ -1850,6 +1850,18 @@ dt {
 dd {
     margin-left: 0
 }
+.col-xs-12{
+    font-size:24px ;
+    font-style: italic;
+    letter-spacing: -1px;
+    color:#222;
+    opacity: 0.9;
+}
+.signature{
+    font-style: initial;
+    font-size:23px;
+    opacity: 0.8;
+}
 
 @media (min-width:768px) {
     .dl-horizontal dt {
@@ -7703,7 +7715,6 @@ button.close {
     margin: 1px;
     text-indent: -999px;
     cursor: pointer;
-    background-color: #000\9;
     background-color: rgba(0, 0, 0, 0);
     border: 1px solid #fff;
     border-radius: 10px
